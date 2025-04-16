@@ -1,9 +1,20 @@
-### Hi there 👋 I'm Isuru
-- 💻 I'm a software engineering intern
-- 🚀 Learning Full Stack Web Development
-- 🌱 Currently working on a POS system
+<h1 align="center">Hi there 👋, I'm Isuru</h1>
+<h3 align="center">Software Engineering Intern | Future Full-Stack Dev</h3>
 
-### 🛠️ Tech Stack
-- 💻 Languages: Java, HTML, CSS, PHP, JavaScript
-- 🌐 Frontend: React.js
-- 🗄️ Backend: Node.js, MySQL
+---
+
+### 🚀 About Me
+- 🎓 I'm a Software Engineering intern from Sri Lanka
+- 🌱 Currently learning full stack development
+- 💻 Working on a POS system using PHP, React, and MySQL
+- 🎯 Goal: Become a full-stack developer
+- 🌐 Portfolio: (Coming soon...)
+
+---
+
+### 🛠️ My Tech Stack
+```bash
+Languages:   Java, HTML, CSS, JavaScript, PHP, SQL  
+Frontend:    React.js, Bootstrap  
+Backend:     Node.js, MySQL  
+Tools:       Git, GitHub, VS Code, Figma  
