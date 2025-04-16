@@ -18,3 +18,15 @@ Languages:   Java, HTML, CSS, JavaScript, PHP, SQL
 Frontend:    React.js, Bootstrap  
 Backend:     Node.js, MySQL  
 Tools:       Git, GitHub, VS Code, Figma  
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru794&show_icons=true&theme=tokyonight" alt="Isuru's GitHub Stats" /> </p>
+
+
+🔥 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=isuru794&theme=tokyo-night" alt="Contribution Graph" /> </p>
+
+
+📈 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuru794&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
