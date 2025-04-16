@@ -1,5 +1,7 @@
-                                                    ### Hi there 👋 I'm Isuru
-                                                       # 💫 About Me:
+<h1 align="center">Hi there 👋, I'm Isuru</h1>
+<h3 align="center">Software Engineering Intern | Future Full-Stack Dev</h3>
+   
+   # 💫 About Me:
 🎓 I'm a Software Engineering intern from Sri Lanka<br>🌱 Currently learning full stack development<br>🎯 Goal: Become a full-stack developer<br>🌐 Portfolio: (Coming soon...)
 
 
