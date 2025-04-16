@@ -21,7 +21,8 @@ Tools:       Git, GitHub, VS Code, Figma
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru794&show_icons=true&theme=tokyonight" alt="Isuru's GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isuru794&show_icons=true&theme=tokyonight&hide_border=true
+" /> </p>
 
 
 🔥 Contribution Graph
