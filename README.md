@@ -10,7 +10,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Software Engineering Undergraduate  
-- 💼 Working as an Intern  
+- 💼 Working as a Fullstack dev.
 - 🌱 Learning **React.js + Node.js**  
 - 🛠️ Building **POS Systems & Web Apps**  
 - 🎯 Goal: Become a **Fullstack Engineer**  
